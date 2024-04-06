@@ -1,3 +1,5 @@
+# WEEK 2 CODE CHALLENGE
+
 ## AUTHOR
 [Neema Charity](https://github.com/Neema-Charity)
 
