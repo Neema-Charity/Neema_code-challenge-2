@@ -56,5 +56,3 @@ function isPrime(initialArray) {
 
 // Call the isPrime function to find and alert the prime numbers in the initial array
 isPrime(initialArray);
-
-
