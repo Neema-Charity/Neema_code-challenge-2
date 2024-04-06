@@ -13,7 +13,7 @@ This program consists of 3 challenges:
 3. Takes an array of numbers as input and returns a new array containing only the prime numbers from the original array. 
 
 ## LIVE SITE
-
+https://neema-charity.github.io/Neema_code-challenge-2/
 
 ## TECHNOLOGIES
 HTML
